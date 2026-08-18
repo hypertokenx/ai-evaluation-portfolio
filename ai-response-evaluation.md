@@ -1,9 +1,9 @@
 # AI Response Evaluation Example
 
-**Original Prompt**
+**Original Prompt:**
 "What are the main benefits of remote work for companies?"
 
-**AI-Generated Response**
+**AI-Generated Response"**
 "Remote work is great for companies because employees are happier and more productive. It also saves money on office space. Many companies have switched to remote work after the pandemic and it has worked well for them. Employees can work from anywhere and this leads to better results overall."
 
 ## Evaluation
